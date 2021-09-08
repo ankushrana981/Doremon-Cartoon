@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-![Screenshot](screenshot-1.png)
+![Screenshot](Screenshot-1.png)
 
 ## How to run this file
 
